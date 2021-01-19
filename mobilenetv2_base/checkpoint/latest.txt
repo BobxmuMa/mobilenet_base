@@ -1,0 +1,1 @@
+Exp_base/mobilenetv2_base_28702/checkpoint/checkpoint.pth.tar
